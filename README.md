@@ -5,3 +5,6 @@
 
 - Project 1 - Click Counter
   ![alt text](image.png)
+
+- Project 2 - Custom form
+  ![alt text](image-1.png)
