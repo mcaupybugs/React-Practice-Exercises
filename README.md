@@ -8,3 +8,6 @@
 
 - Project 2 - Custom form
   ![alt text](image-1.png)
+
+- Project 3 - Tic Tac Toe
+  ![alt text](image-2.png)
