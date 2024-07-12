@@ -11,3 +11,6 @@
 
 - Project 3 - Tic Tac Toe
   ![alt text](image-2.png)
+
+- Project 4 - Stopwatch
+  ![alt text](image-3.png)
