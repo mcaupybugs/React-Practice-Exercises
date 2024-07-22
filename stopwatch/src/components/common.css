@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    color: black;
+    font-weight: 200;
+    animation: animateFontSize 0.2s linear 0s;
+    font-size: 3rem;
+  }
+  
+  @keyframes animateFontSize {
+    0% {
+      font-size: 1.3rem;
+    }
+    25% {
+      font-size: 1.5rem;
+    }
+  
+    50% {
+      font-size: 1.7rem;
+    }
+  
+    75% {
+      font-size: 1.9rem;
+    }
+    100% {
+      font-size: 2rem;
+    }
+  }
+  
